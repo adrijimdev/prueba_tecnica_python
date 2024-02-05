@@ -1,8 +1,8 @@
 # PRUEBA TÉCNICA PYTHON
 
-Prueba técnica en Python realizada para un bootcamp sobre IA con contratación posterior, el cual no pude cursar 
-finalmente porque era necesario realizar un pago previo que no podía permitirme en ese momento.
-Incluyo mi resolución original del ejercicio 5 (a la que llegué al realizar la prueba)
+Prueba técnica en Python realizada para un bootcamp sobre IA con contratación posterior, en la cualo obtuve
+una nota de 91 sobre 100. Finalmente no pude cursarlo  porque era necesario realizar un pago previo 
+que no podía permitirme en ese momento. Incluyo mi resolución original del ejercicio 5 (a la que llegué al realizar la prueba)
 y la resolución a la que llegué más tarde cuando quise mejorarla ya que no me gustaba mi resolución original.
 Los ejercicios a realizar eran los siguientes:
 
